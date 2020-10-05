@@ -1,0 +1,22 @@
+.body{
+    background-color:blue;
+    /* background:rgba(251,255,250,0.3) */
+}
+#profile_pic{
+    margin-top: 10px;
+    border-radius: 50%;
+    height:110px;
+    width:110px;
+}
+#name{
+    margin-top:4px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    
+}
+#username{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 27px;
+}
